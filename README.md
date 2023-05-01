@@ -12,7 +12,7 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 > Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ Theme: [Django Admin Corporate](https://github.com/app-generator/django-corporate-dashboard), designed by [Creative-Tim](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200)
+- ✅ Theme: [Django Admin Corporate](https://github.com/app-generator/django-admin-corporate), designed by [Creative-Tim](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200)
   - `can be used in any Django project` (new or legacy)
 - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
 - 🚀 `Deployment` 
