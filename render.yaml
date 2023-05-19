@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: django-corporate-pro
+    name: django-corporate
     plan: starter
     env: python
     region: frankfurt  # region should be same as your database region.
