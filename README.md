@@ -1,10 +1,9 @@
-# Django Corporate Dashboard
+# [Django Corporate Dashboard](https://django-corporate.onrender.com/)
 
 Open-source **Django** project crafted on top of **Corporate Dashboard**, an open-source `Bootstrap 5` design from [Creative-Tim](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200).
 Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, `Corporate Dashboard` is ready to help you create stunning websites and webapps.
 
-- 👉 [Django Corporate Dashboard](#) - `Product page` (soon)
-- 👉 [Django Corporate Dashboard](#) - `LIVE Demo` (soon)
+- 👉 [Django Corporate Dashboard](https://django-corporate.onrender.com/) - `LIVE Demo` (soon)
 - 🚀 Free [Support](https://appseed.us/support/) via Email & `Discord`
 
 <br />
@@ -148,4 +147,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Corporate Dashboard](https://django-corporate.onrender.com/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
