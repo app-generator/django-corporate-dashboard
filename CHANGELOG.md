@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.1] 2023-05-19
+### Changes
+
+- Deploy [Django Corporate](https://django-corporate.onrender.com/) `LIVE Demo`
+
 ## [1.0.0] 2023-04-05
 ### Changes
 
