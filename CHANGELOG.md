@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.3] 2023-05-22
+### Changes
+
+- Update Links (added product page)
+  - [Django Corporate](https://appseed.us/product/corporate-dashboard/django/)
+  - [Django Corporate PRO](https://appseed.us/product/corporate-dashboard-pro/django/)
+
 ## [1.0.2] 2023-05-20
 ### Changes
 
