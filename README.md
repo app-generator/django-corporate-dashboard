@@ -4,7 +4,7 @@ Open-source **Django** project crafted on top of **[Corporate Dashboard](https:/
 Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, `Corporate Dashboard` is ready to help you create stunning websites and webapps.
 
 - 👉 [Django Corporate](https://django-corporate.onrender.com/) - `LIVE Demo`
-- 🛒 [Django Corporate PRO](https://github.com/app-generator/django-corporate-dashboard-pro) - `PRO Version`
+- 🛒 [Django Corporate PRO](https://appseed.us/product/corporate-dashboard-pro/django/) - `PRO Version`
 - 🚀 Free [Support](https://appseed.us/support/) via Email & `Discord`
 
 <br />
