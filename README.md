@@ -1,4 +1,4 @@
-# [Django Corporate](https://django-corporate.onrender.com/)
+# [Django Corporate](https://appseed.us/product/modernize-dashboard/django/)
 
 Open-source **Django** project crafted on top of **Corporate Dashboard**, an open-source `Bootstrap 5` design from [Creative-Tim](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200).
 Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, `Corporate Dashboard` is ready to help you create stunning websites and webapps.
@@ -148,4 +148,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Django Corporate](https://django-corporate.onrender.com/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Corporate](https://appseed.us/product/modernize-dashboard/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
