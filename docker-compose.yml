@@ -6,7 +6,7 @@ services:
     build: .
     volumes:
       - ./:/app
-    command: bash -c "gunicorn --config gunicorn-cfg.py --reload core.wsgi"
+    command: bash -c '/app/entrypoint.sh'
     networks:
       - db_network
       - web_network
