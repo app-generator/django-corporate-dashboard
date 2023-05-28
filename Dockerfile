@@ -18,5 +18,5 @@ RUN chmod +x /app/entrypoint.sh
 # running migrations
 RUN python manage.py migrate
 
-# gunicorn
-# CMD ["gunicorn", "--config", "gunicorn-cfg.py", "core.wsgi"]
+# entrypoint
+CMD ["bash", "-c", "/app/entrypoint.sh"]
