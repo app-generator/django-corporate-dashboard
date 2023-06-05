@@ -23,6 +23,27 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 ![Django Corporate Dashboard](https://user-images.githubusercontent.com/51070104/229719846-cfe96c5c-89c2-4ea0-89a9-7be69ebbb228.png)
 
+<br /> 
+
+## Start with `Docker`
+
+> 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
+
+```bash
+$ git clone https://github.com/app-generator/django-corporate-dashboard.git
+$ cd django-corporate-dashboard
+```
+
+<br />
+
+> 👉 **Step 2** - Start the APP in `Docker`
+
+```bash
+$ docker-compose up --build 
+```
+
+Visit `http://localhost:5085` in your browser. The app should be up & running.
+
 <br />
 
 ## Manual Build 
@@ -30,8 +51,8 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-soft-ui-dashboard.git
-$ cd django-soft-ui-dashboard
+$ git clone https://github.com/app-generator/django-corporate-dashboard.git
+$ cd django-corporate-dashboard
 ```
 
 <br />
