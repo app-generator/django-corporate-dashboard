@@ -4,6 +4,8 @@
 ### Changes
 
 - Update DOCS (readme)
+- [Django, HOT Reload in Docker](https://www.youtube.com/watch?v=o0hCE-EpoyA)
+  - YouTube Material
 
 ## [1.0.4] 2023-05-28
 ### Changes
