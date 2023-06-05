@@ -39,6 +39,7 @@ $ cd django-corporate-dashboard
 > 👉 **Step 2** - Start the APP in `Docker`
 
 ```bash
+$ chmod +x entrypoint.sh
 $ docker-compose up --build 
 ```
 
