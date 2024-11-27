@@ -1,5 +1,19 @@
 # Change Log
 
+## [1.0.6] 2024-11-27
+### Changes
+
+> Update RM Links
+
+- 👉 [Django Corporate](https://appseed.us/product/corporate-dashboard/django/) - `Product Page`
+- 👉 [Django Corporate](https://app-generator.dev/docs/products/django/corporate-dashboard/index.html) - `Complete Information` and Support Links
+  - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - a `comprehensive tutorial`
+  - `Configuration`: Install Dependencies, Prepare Environment, Setting up the Database 
+  - `Start with Docker`
+  - `Manual Build`
+  - `Start the project`
+  - `Deploy on Render`
+
 ## [1.0.5] 2023-06-05
 ### Changes
 
