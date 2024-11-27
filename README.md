@@ -21,7 +21,7 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 <br />
 
-![Django Corporate Dashboard](https://user-images.githubusercontent.com/51070104/229719846-cfe96c5c-89c2-4ea0-89a9-7be69ebbb228.png)
+![Django Corporate Dashboard - Open-source starter built with basic modules - actively supported by App-Generator.](https://github.com/user-attachments/assets/073eb9b1-c11b-4b64-834f-0381eee080b0)
 
 <br /> 
 
