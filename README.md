@@ -41,11 +41,11 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 ## Features
 
-- Simple, Easy-to-Extend codebase
-- `Corporate UI Dashboard` Full Integration 
+- Simple, Easy-to-Extend Codebase
+- Corporate UI Dashboard Design - Full Integration 
 - Bootstrap 5 Styling 
-- Session-based Authentication
-- DB Persistence: SQLite
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
 - Docker 
 - CI/CD integration for Render 
 
