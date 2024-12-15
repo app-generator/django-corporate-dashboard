@@ -15,6 +15,30 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 <br />
 
+## Add Features with [Django App Generator](https://app-generator.dev/tools/django-generator/)
+
+- Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
+- Select Corporate Dashboard as the preferred design
+- (Optional) Design Database: edit models and fields
+- (Optional) Edit the fields for the extended user model
+- (Optional) Enable OAuth for GitHub
+- (Optional) Add Celery (async tasks)
+- (Optional) Enable Dynamic API Module
+- Docker Scripts
+- Render CI/Cd Scripts
+
+**The generated Django project is available as a ZIP Archive and also uploaded to GitHub.**
+
+<br />
+
+## Deploy LIVE
+
+> One-click deploy (requires to have already an account).
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+<br /> 
+
 > Features: 
 
 - Simple, Easy-to-Extend codebase
