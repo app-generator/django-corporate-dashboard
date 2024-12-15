@@ -39,7 +39,7 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 <br /> 
 
-> Features: 
+## Features
 
 - Simple, Easy-to-Extend codebase
 - `Corporate UI Dashboard` Full Integration 
