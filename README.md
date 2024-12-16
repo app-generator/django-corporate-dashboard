@@ -15,7 +15,7 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 <br />
 
-## Add Features with [Django App Generator](https://app-generator.dev/tools/django-generator/)
+### Customize with [Django App Generator - Corporate Design](https://app-generator.dev/tools/django-generator/corporate/)
 
 - Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
 - Select Corporate Dashboard as the preferred design

@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.8] 2024-12-16
+### Changes
+
+- Preselect the design in the Generator:
+  - [Django App Generator - Corporate Design](https://app-generator.dev/tools/django-generator/corporate/)
+
 ## [1.0.7] 2024-12-15
 ### Changes
 
